@@ -1,5 +1,26 @@
 [
   {
+    "objectID": "posts.html",
+    "href": "posts.html",
+    "title": "Posts",
+    "section": "",
+    "text": "Harmonizing global water stress research\n\n\n\nplant water potential\n\n\nwater stress\n\n\n\nThe role of PSInet\n\n\n\nFrancesco Giardina\n\n\nAug 31, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nExpanding soil water potential obervations using near-surface geophysics\n\n\n\nelectrical resistivity imaging\n\n\nsoil water potential\n\n\n\nOne path toward resolving the spatial-temporal mismatch\n\n\n\nDaniel P. Beverly\n\n\nMay 24, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nImproving psychrometer installations\n\n\n\npsychrometry\n\n\nplant water potential\n\n\n\nWhat I learned from George Koch and Ben Umali\n\n\n\nJessica S. Guo\n\n\nApr 25, 2023\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "join.html",
+    "href": "join.html",
+    "title": "Get Involved",
+    "section": "",
+    "text": "Please use the form below to register your interest in joining network activities."
+  },
+  {
+    "objectID": "join.html#sign-up-for-psinet",
+    "href": "join.html#sign-up-for-psinet",
+    "title": "Get Involved",
+    "section": "",
+    "text": "Please use the form below to register your interest in joining network activities."
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "PSInet",
@@ -35,6 +56,69 @@
     "text": "The Team\nLeadership: Kim Novick (Indiana U.), Jessica Guo (U. of Arizona), Dan Johnson (U. of Georgia), Kate McCulloh (U. of Wisconsin), Jesse Nippert (Kansas State U.), Steve Kannenberg (West Virginia U.), Michael Benson (Indiana U.).\nSteering Committee: William Anderegg (U. of Utah), Brendan Choat (Western Sydney U.), Kevin Hultine (Desert Botanical Garden), George Koch (Northern Arizona U.), Alexandra Konings (Stanford U.), Lauren Lowman (Wake Forest U.), Jordi Martínez-Vilalta (Autonomous U. of Barcelona), Ashley Matheny (U. of Texas), Rafael Poyatos (CREAF, Barcelona), H. Jochen Schenk (California State U. – Fullerton), and Russell Scott (USDA-ARS).\nWorking groups:\n\nData WG: Guo and Poyatos, plus Francesco Giardina (ETH-Zurich) Sandra Bucchi (Institute of Biosciences of the Patagonia, Argentina), Celia Rodriguez- Dominguez (IRNAS-CSIC, Spain), Aurora Kagawa-Viviani (U. of Hawaii), Jess Gersony (Smith College.), Rafael Oliveira (University of Campinas, Brazil), Angela Rigden (UC Irvine), Jennifer Peters (Oak Ridge Natl. Lab), Tonantzin Tarin (U. Nacional Autónoma de México), Quan Zhang (Wuhan U., China), and new members to be added.\nCyberinfrastucture WG: Guo, Poyatos (SAPFLUXNET), plus William Hammond (U. of Florida, XFT), Housen Chu (LBNL, Ameriflux), and new members added after the project begins.\nContinuous Data WG: Guo, Schenk, Koch, Choat, Matheny, and Novick, plus Steve Kannenberg (U. of Utah), Daniel Beverly (Indiana U.), and new members added after the project begins.\nSynthesis WG: Novick, Scott, Martínez-Vilalta, Konings, Matheny, Lowman, Hultine, and Anderegg, and new members to be added.\nCommunity WG: Johnson, McCulloh, Schenk, Hultine, and Novick, plus Juliana Medeiros (Holden Arboretum), Chis Oishi (Coweeta), Jesse Nippert (Kansas State U.), and new members to be added."
   },
   {
+    "objectID": "posts/2023-08-31-ETpaper/index.html",
+    "href": "posts/2023-08-31-ETpaper/index.html",
+    "title": "Harmonizing global water stress research",
+    "section": "",
+    "text": "In the dynamic world of ecosystems, water plays a central role. The sensitivity of vegetation to drought, especially, hinges upon understanding water limitation. However, in trying to unravel this complex relationship, the scientific community has often been hamstrung by the immense variety of vegetation types, different climates, and the unpredictability of root zones. Our recent study in New Phytologist, titled Diagnosing evapotranspiration responses to water deficit across biomes using deep learning, sheds light on some of these open questions, but it also highlights where the knowledge gaps remain.\nBy employing deep neural networks, we’ve taken a closer look at how vegetation responds when faced with drought conditions. We’ve been able to isolate and measure a water stress factor (fET) that indicates evapotranspiration (ET) reductions during drought. Notably, our results have shown varying ET responses to water stress. From the rapid decline of fET in some savannah and grassland sites to the subtle reduction in most forests, the range is broad. But here’s the catch: in most arid sites, after an initial drop, the relationship between fET and the cumulative water deficit seems to level off (Figure 1). But why?\nWhen initially presented with these findings, we wrestled with the question: was this due to increased xylem resistance at these sites, or could these locations access deeper underground water reserves? The answer, or at least a part of it, was found in previous field studies. These studies revealed that vegetation, especially in drier areas, can sustain ET during drought due to groundwater or deeper soil moisture access. At the same time, plants also strategically adjust their stomatal closure based on the progression of water deficits. However, many conventional land surface models don’t account for these intricacies, leading to an incomplete understanding of water stress and its impacts.\nAnd this brings us to a critical gap. Despite their undeniable importance, field studies and measurements, particularly those focusing on water potential (Figure 2), are not easily accessible and not commonly co-located with ecosystem-scale measurements. This lack of data poses challenges for researchers aiming to refine global understanding of water limitation in terrestrial ecosystems.\nImagine the breakthroughs possible if researchers had access to a standardised and comprehensive database of water potential measurements across various biomes! Our exploration into ET responses to drought using deep learning has shown promising results. But the road ahead requires collaboration, shared resources, and a concerted effort to fill the data gaps. The scientific community would greatly benefit from a global network of water potential measurements, giving us the tools to better understand our planet’s ecosystems. To contribute your water potential data to this effort, visit ‘Get Involved’ and ‘Submit Data’."
+  },
+  {
+    "objectID": "posts/2023-08-31-ETpaper/index.html#footnotes",
+    "href": "posts/2023-08-31-ETpaper/index.html#footnotes",
+    "title": "Harmonizing global water stress research",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nR package ‘LSD’ was used to plot the point density (Schwalb et al., 2020)↩︎"
+  },
+  {
+    "objectID": "posts/2023-05-24-eri/index.html",
+    "href": "posts/2023-05-24-eri/index.html",
+    "title": "Expanding soil water potential obervations using near-surface geophysics",
+    "section": "",
+    "text": "Figure 1: ERI results from Panama highlighting the changes in soil water content based on soil conductance will be used to expand the spatial understanding of bulk and root-zone soil water potential. Data and figure credit Daniel Beverly\n\n\nMy Ph.D. at the University of Wyoming through the Wyoming Center for Environmental Hydrology and Geophysics (WyCHEG) afforded me a unique opportunity to mix hydrological, geophysical, and ecophysiological approaches to track water movement. Our extensive interdisciplinary team aimed to close the water budget using interpolations of snow distributions, measures of whole-tree and understory evapotranspiration, and a unique implementation of near-surface geophysical observations illuminating the subsurface hydrological fluxes. Electrical resistivity imaging (ERI) techniques have produced continuous observations of subsurface processes for parsing subsurface flows, vertical infiltration, and water uptake within the rooting zones. However, I believe this is just the forefront of using near-surface geophysical tools for exploring the rhizosphere and rooting-zone hydraulic mechanisms controlling carbon and water fluxes.\nThe world of plant water relations is theoretically rich with biophysical processes but often lacks empirical observations needed to test these mechanisms. A substantial gap emerges from the temporal and spatial mismatch in data collection of water potentials. Namely, leaf water potentials are typically measured once or twice a day (e.g., predawn and midday), at weekly to monthly sampling intervals, and on individuals distributed across the landscape. Soil water potential is rarely measured in situ; instead, estimates are predicted by models parameterized with soil volumetric water content and soil characteristics. Soil water contents are often recorded every 5 to 30 minutes, but only from a limited number of landscape positions. In sum, plant water potentials are mostly discrete in time but replicated spatially, while soil water potentials are mostly discrete in space but temporally continuous.\n\n\n\nFigure 2: The temporal-spatial mismatch across the water potential (Ψ) measurement space from soils (ΨS; light blue), xylem (ΨX; dark blue), and leaves (ΨL; green) limit confident predictions of Ψ gradients. The electrical resistivity imaging (ERI; burgundy) reduces this mismatch by expanding the spatial representation of ΨS to maximize the overlap with ΨL. Figure credit Daniel Beverly\n\n\nElectrical resistivity imaging (ERI) is a promising approach to fill gaps in the spatial-temporal mismatch for soil water potential measurements. Specifically, this technique expands spatial representation by covering more rooting and soil area while maintaining high temporal resolution. Repeated pulses of electrical current provide a time series of 2-D maps, capturing the subtle variations in soil, bedrock, and water content. Soil moisture can be confidently estimated as a function of electrical conductance.\nOur work in Panama was successful in differentiating the soil-surface evaporation and the depletion of soil moisture within the root zone. However, while ERI is typically used to monitor volumetric changes in soil water, it is rarely used to estimate the spatial-temporal dynamics of soil water potential. Since soil conductance and soil water potential are equally sensitive to changes in soil particle size, pH, salinity, cation exchange capacity, and porosity, ERI may be an even better proxy for soil water potential than water content.\n\n\n\n\n\n\n\n\n\n\nFigure 3: Electrodes associated with ERI transect running through a forest in southeastern Wyoming. Photo credit Daniel Beverly\n\n\nWith my newly funded USDA NIFA project, I am excited to explore the ability of the ERI techniques to characterize the rhizosphere and rooting zone soil water potentials. This project focuses on understanding the seasonal variation in rooting zone water potentials in hardwood forests of Indiana and Michigan, along with the evaluation of soil hydraulics differences among cover cropping strategies, both of which are important carbon sinks throughout the Midwest. We are hoping that these data will provide better constraints on the rooting processes that are doing to be essential for predicting future carbon sequestration and drought responses."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "PSInet: A global water potential network",
+    "section": "",
+    "text": "Welcome to the alpha version of the website for PSInet, an NSF-funded Research Coordination Network aimed at building a community of people and data to harness the potential of plant and soil water potential.\n\nprint(Sys.time())\n\n[1] \"2023-09-15 16:42:49 UTC\""
+  },
+  {
+    "objectID": "posts/2023-04-25-intro/index.html",
+    "href": "posts/2023-04-25-intro/index.html",
+    "title": "Improving psychrometer installations",
+    "section": "",
+    "text": "Figure 1: George and I installing some stem psychrometers at Bradshaw Ranch, AZ. Photo credit Ben Umali\nWhen I was on the academic job market, I pared back my teaching philosophy to something simple and not at all original: students learn by doing. This last week, while spending time with my former advisor George Koch (NAU) and Ben Umali (ICT International), I was reminded of why that simple mantra is so effective. Although emails and zoom calls are helpful, there was simply no replacement for watching Ben and George, asking questions in real time, and practicing the installations myself.\nI have been successful with psychrometers so far, thanks to George’s lessons of almost 10 years ago. However, Ben shared a new method that limits xylem exposure, which likely increases the longevity of the installation. Using a flat razor blade, he makes initial transverse cuts spanning the diameter of the sensor head, which limits the width of the exposed xylem. After tangential cutting that exposes the different layers (outer bark, inner bark, phloem, cambium), Ben limits his motions to scraping, which minimizes over-cutting and ensures a flat surface for sensor attachment.\nIndeed, if the sensor loses contact with the xylem, the same installation site could be reused by re-scraping the xylem, rather than creating an additional wound elsewhere. I wish I’d known this method 3 years ago when working on sagebrush, which had highly irregular xylem!\nBut the information exchange was not unidirectional. George pioneered the use of self-adhesive silicone tape1 to attach the sensor to the stem, which provides both security and a vapor seal, replacing the need for vacuum grease. Ben still advises a minute application of vacuum grease, but he seemed excited to include silicone tape in future installation guidelines. It was a fantastic opportunity to learn by doing, while surrounded by the beauty of Northern Arizona."
+  },
+  {
+    "objectID": "posts/2023-04-25-intro/index.html#footnotes",
+    "href": "posts/2023-04-25-intro/index.html#footnotes",
+    "title": "Improving psychrometer installations",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nI have found this product at different locations depending on the hardware store, including random endcaps and the catch-all “tape aisle”. It has industrial uses in electrical and duct work, but it may not be found in those sections of the store. Can be removed residue-free with a pocket knife.↩︎"
+  },
+  {
+    "objectID": "goals.html",
+    "href": "goals.html",
+    "title": "Goals & Objectives",
+    "section": "",
+    "text": "Anticipating and preparing for life on a warming planet requires a predictive understanding of how increasing drought and heat stress will affect terrestrial plants and the many services they provide. The water potential of soils and plants – which can be imagined as the blood pressure of the natural world – is a fundamental driver of ecosystem water flows, and directly controls many aspects of plant functioning during drought. However, observations of water potential (commonly abbreviated with the Greek letter ‘Psi’, \\(\\Psi\\)) are relatively sparse, discontinuous, and unaggregated, and plagued by methodological challenges and disparities that constrain the synthetic research necessary to improve conceptual understanding and predictive models of plant drought responses.\n\n\n\nFigure 1: Gradients in water potential (\\(\\Psi\\)) form a connected continuum, moving water through ecosystems and profoundly influencing plant function. PSInet will increase the quality and accessibility of data (in soils and plants, blue circles), filling a critical missing link between information about environmental drivers and physiological responses that is already widely available from existing networks and remote sensing platforms (pink text). Modified from Novick et al. 2022.\n\n\n\nOur goal is to create a network – PSInet – that will confront the water potential information gap and enable the pursuit of previously intractable questions about plant responses to drought and heat stress. PSInet will be a network of data and a network of people, organized around coordinated research, training, and community-building activities designed to increase the availability, integrity, and accessibility of information to a diverse scientific community.\nSpecific objectives include:\n\nPromote consistent collection and interpretation of data by a diverse global community of scientists through shared protocols, best practices, and early career training.\nCreate an open, global database for plant and soil time series that is harmonized with information available from other environmental observation networks.\nSupport synthetic end-use of the PSInet database to address pressing knowledge gaps.\nFoster a diverse and inclusive network environment with multiple mechanisms to advance the careers of demographically, geographically, and intellectually diverse cohorts of early career scientists.\nBroaden the impact of plant drought research through public outreach activities organized around a network of “Talking Trees” at public gardens and arboreta.\n\n\n\n\n\nFigure 2: PSInet project activities and timeline."
+  },
+  {
+    "objectID": "submit.html",
+    "href": "submit.html",
+    "title": "Submit Data",
+    "section": "",
+    "text": "PSInet is a global water potential network designed to close knowledge gaps surrounding the water potential gradients that drive ecosystem water flows and govern many aspects of plant function. As part of that work, we are building an open-access database for time series of plant water potential collected in field research settings, including both discrete measurements made with pressure chambers and continuous measurements enabled by psychrometers, tensiometers, and other emerging technologies."
+  },
+  {
+    "objectID": "submit.html#pre-submission-survey",
+    "href": "submit.html#pre-submission-survey",
+    "title": "Submit Data",
+    "section": "Pre-submission survey",
+    "text": "Pre-submission survey\nBy filling out this survey, you are indicating your interest in sharing a plant water potential time series dataset, likely collected using a pressure chamber approach, to the database. The database will be published as an open-access tool (e.g. CC-By-4.0 license). Sharing data by XX-XX-XXXX will make you eligible to co-author a network-level data publication (up to two personnel per site) and will give you and your team members priority access to the entire database during a one-year embargo period prior to publication of the data paper. PSInet can also work with you to provide a site-specific DOI for your dataset if desired. Data providers will be given priority access to other network activities, including workshops, conference meet-ups, and some sites may find that sharing data opens the door to future synthesis projects.\nThis survey will take about 15 minutes and should describe a single dataset. If you have questions or need clarification, please contact Michael Benson or Jessica Guo. After you fill out this survey, you will receive more detailed instructions about how to prepare your data for submission using an Excel template. PSInet will also be holding online help sessions (datathons) to provide additional instructions and answer contributor questions."
+  },
+  {
     "objectID": "events.html",
     "href": "events.html",
     "title": "Events",
@@ -54,89 +138,5 @@
     "title": "Events",
     "section": "Past",
     "text": "Past"
-  },
-  {
-    "objectID": "goals.html",
-    "href": "goals.html",
-    "title": "Goals & Objectives",
-    "section": "",
-    "text": "Anticipating and preparing for life on a warming planet requires a predictive understanding of how increasing drought and heat stress will affect terrestrial plants and the many services they provide. The water potential of soils and plants – which can be imagined as the blood pressure of the natural world – is a fundamental driver of ecosystem water flows, and directly controls many aspects of plant functioning during drought. However, observations of water potential (commonly abbreviated with the Greek letter ‘Psi’, \\(\\Psi\\)) are relatively sparse, discontinuous, and unaggregated, and plagued by methodological challenges and disparities that constrain the synthetic research necessary to improve conceptual understanding and predictive models of plant drought responses.\n\n\n\nFigure 1: Gradients in water potential (\\(\\Psi\\)) form a connected continuum, moving water through ecosystems and profoundly influencing plant function. PSInet will increase the quality and accessibility of data (in soils and plants, blue circles), filling a critical missing link between information about environmental drivers and physiological responses that is already widely available from existing networks and remote sensing platforms (pink text). Modified from Novick et al. 2022.\n\n\n\nOur goal is to create a network – PSInet – that will confront the water potential information gap and enable the pursuit of previously intractable questions about plant responses to drought and heat stress. PSInet will be a network of data and a network of people, organized around coordinated research, training, and community-building activities designed to increase the availability, integrity, and accessibility of information to a diverse scientific community.\nSpecific objectives include:\n\nPromote consistent collection and interpretation of data by a diverse global community of scientists through shared protocols, best practices, and early career training.\nCreate an open, global database for plant and soil time series that is harmonized with information available from other environmental observation networks.\nSupport synthetic end-use of the PSInet database to address pressing knowledge gaps.\nFoster a diverse and inclusive network environment with multiple mechanisms to advance the careers of demographically, geographically, and intellectually diverse cohorts of early career scientists.\nBroaden the impact of plant drought research through public outreach activities organized around a network of “Talking Trees” at public gardens and arboreta.\n\n\n\n\n\nFigure 2: PSInet project activities and timeline."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "PSInet: A global water potential network",
-    "section": "",
-    "text": "Welcome to the alpha version of the website for PSInet, an NSF-funded Research Coordination Network aimed at building a community of people and data to harness the potential of plant and soil water potential."
-  },
-  {
-    "objectID": "join.html",
-    "href": "join.html",
-    "title": "Get Involved",
-    "section": "",
-    "text": "Please use the form below to register your interest in joining network activities."
-  },
-  {
-    "objectID": "join.html#sign-up-for-psinet",
-    "href": "join.html#sign-up-for-psinet",
-    "title": "Get Involved",
-    "section": "",
-    "text": "Please use the form below to register your interest in joining network activities."
-  },
-  {
-    "objectID": "posts/2023-04-25-intro/index.html",
-    "href": "posts/2023-04-25-intro/index.html",
-    "title": "Improving psychrometer installations",
-    "section": "",
-    "text": "Figure 1: George and I installing some stem psychrometers at Bradshaw Ranch, AZ. Photo credit Ben Umali\nWhen I was on the academic job market, I pared back my teaching philosophy to something simple and not at all original: students learn by doing. This last week, while spending time with my former advisor George Koch (NAU) and Ben Umali (ICT International), I was reminded of why that simple mantra is so effective. Although emails and zoom calls are helpful, there was simply no replacement for watching Ben and George, asking questions in real time, and practicing the installations myself.\nI have been successful with psychrometers so far, thanks to George’s lessons of almost 10 years ago. However, Ben shared a new method that limits xylem exposure, which likely increases the longevity of the installation. Using a flat razor blade, he makes initial transverse cuts spanning the diameter of the sensor head, which limits the width of the exposed xylem. After tangential cutting that exposes the different layers (outer bark, inner bark, phloem, cambium), Ben limits his motions to scraping, which minimizes over-cutting and ensures a flat surface for sensor attachment.\nIndeed, if the sensor loses contact with the xylem, the same installation site could be reused by re-scraping the xylem, rather than creating an additional wound elsewhere. I wish I’d known this method 3 years ago when working on sagebrush, which had highly irregular xylem!\nBut the information exchange was not unidirectional. George pioneered the use of self-adhesive silicone tape1 to attach the sensor to the stem, which provides both security and a vapor seal, replacing the need for vacuum grease. Ben still advises a minute application of vacuum grease, but he seemed excited to include silicone tape in future installation guidelines. It was a fantastic opportunity to learn by doing, while surrounded by the beauty of Northern Arizona."
-  },
-  {
-    "objectID": "posts/2023-04-25-intro/index.html#footnotes",
-    "href": "posts/2023-04-25-intro/index.html#footnotes",
-    "title": "Improving psychrometer installations",
-    "section": "Footnotes",
-    "text": "Footnotes\n\n\nI have found this product at different locations depending on the hardware store, including random endcaps and the catch-all “tape aisle”. It has industrial uses in electrical and duct work, but it may not be found in those sections of the store. Can be removed residue-free with a pocket knife.↩︎"
-  },
-  {
-    "objectID": "posts/2023-05-24-eri/index.html",
-    "href": "posts/2023-05-24-eri/index.html",
-    "title": "Expanding soil water potential obervations using near-surface geophysics",
-    "section": "",
-    "text": "Figure 1: ERI results from Panama highlighting the changes in soil water content based on soil conductance will be used to expand the spatial understanding of bulk and root-zone soil water potential. Data and figure credit Daniel Beverly\n\n\nMy Ph.D. at the University of Wyoming through the Wyoming Center for Environmental Hydrology and Geophysics (WyCHEG) afforded me a unique opportunity to mix hydrological, geophysical, and ecophysiological approaches to track water movement. Our extensive interdisciplinary team aimed to close the water budget using interpolations of snow distributions, measures of whole-tree and understory evapotranspiration, and a unique implementation of near-surface geophysical observations illuminating the subsurface hydrological fluxes. Electrical resistivity imaging (ERI) techniques have produced continuous observations of subsurface processes for parsing subsurface flows, vertical infiltration, and water uptake within the rooting zones. However, I believe this is just the forefront of using near-surface geophysical tools for exploring the rhizosphere and rooting-zone hydraulic mechanisms controlling carbon and water fluxes.\nThe world of plant water relations is theoretically rich with biophysical processes but often lacks empirical observations needed to test these mechanisms. A substantial gap emerges from the temporal and spatial mismatch in data collection of water potentials. Namely, leaf water potentials are typically measured once or twice a day (e.g., predawn and midday), at weekly to monthly sampling intervals, and on individuals distributed across the landscape. Soil water potential is rarely measured in situ; instead, estimates are predicted by models parameterized with soil volumetric water content and soil characteristics. Soil water contents are often recorded every 5 to 30 minutes, but only from a limited number of landscape positions. In sum, plant water potentials are mostly discrete in time but replicated spatially, while soil water potentials are mostly discrete in space but temporally continuous.\n\n\n\nFigure 2: The temporal-spatial mismatch across the water potential (Ψ) measurement space from soils (ΨS; light blue), xylem (ΨX; dark blue), and leaves (ΨL; green) limit confident predictions of Ψ gradients. The electrical resistivity imaging (ERI; burgundy) reduces this mismatch by expanding the spatial representation of ΨS to maximize the overlap with ΨL. Figure credit Daniel Beverly\n\n\nElectrical resistivity imaging (ERI) is a promising approach to fill gaps in the spatial-temporal mismatch for soil water potential measurements. Specifically, this technique expands spatial representation by covering more rooting and soil area while maintaining high temporal resolution. Repeated pulses of electrical current provide a time series of 2-D maps, capturing the subtle variations in soil, bedrock, and water content. Soil moisture can be confidently estimated as a function of electrical conductance.\nOur work in Panama was successful in differentiating the soil-surface evaporation and the depletion of soil moisture within the root zone. However, while ERI is typically used to monitor volumetric changes in soil water, it is rarely used to estimate the spatial-temporal dynamics of soil water potential. Since soil conductance and soil water potential are equally sensitive to changes in soil particle size, pH, salinity, cation exchange capacity, and porosity, ERI may be an even better proxy for soil water potential than water content.\n\n\n\n\n\n\n\n\n\n\nFigure 3: Electrodes associated with ERI transect running through a forest in southeastern Wyoming. Photo credit Daniel Beverly\n\n\nWith my newly funded USDA NIFA project, I am excited to explore the ability of the ERI techniques to characterize the rhizosphere and rooting zone soil water potentials. This project focuses on understanding the seasonal variation in rooting zone water potentials in hardwood forests of Indiana and Michigan, along with the evaluation of soil hydraulics differences among cover cropping strategies, both of which are important carbon sinks throughout the Midwest. We are hoping that these data will provide better constraints on the rooting processes that are doing to be essential for predicting future carbon sequestration and drought responses."
-  },
-  {
-    "objectID": "posts/2023-08-31-ETpaper/index.html",
-    "href": "posts/2023-08-31-ETpaper/index.html",
-    "title": "Harmonizing global water stress research",
-    "section": "",
-    "text": "In the dynamic world of ecosystems, water plays a central role. The sensitivity of vegetation to drought, especially, hinges upon understanding water limitation. However, in trying to unravel this complex relationship, the scientific community has often been hamstrung by the immense variety of vegetation types, different climates, and the unpredictability of root zones. Our recent study in New Phytologist, titled Diagnosing evapotranspiration responses to water deficit across biomes using deep learning, sheds light on some of these open questions, but it also highlights where the knowledge gaps remain.\nBy employing deep neural networks, we’ve taken a closer look at how vegetation responds when faced with drought conditions. We’ve been able to isolate and measure a water stress factor (fET) that indicates evapotranspiration (ET) reductions during drought. Notably, our results have shown varying ET responses to water stress. From the rapid decline of fET in some savannah and grassland sites to the subtle reduction in most forests, the range is broad. But here’s the catch: in most arid sites, after an initial drop, the relationship between fET and the cumulative water deficit seems to level off (Figure 1). But why?\nWhen initially presented with these findings, we wrestled with the question: was this due to increased xylem resistance at these sites, or could these locations access deeper underground water reserves? The answer, or at least a part of it, was found in previous field studies. These studies revealed that vegetation, especially in drier areas, can sustain ET during drought due to groundwater or deeper soil moisture access. At the same time, plants also strategically adjust their stomatal closure based on the progression of water deficits. However, many conventional land surface models don’t account for these intricacies, leading to an incomplete understanding of water stress and its impacts.\nAnd this brings us to a critical gap. Despite their undeniable importance, field studies and measurements, particularly those focusing on water potential (Figure 2), are not easily accessible and not commonly co-located with ecosystem-scale measurements. This lack of data poses challenges for researchers aiming to refine global understanding of water limitation in terrestrial ecosystems.\nImagine the breakthroughs possible if researchers had access to a standardised and comprehensive database of water potential measurements across various biomes! Our exploration into ET responses to drought using deep learning has shown promising results. But the road ahead requires collaboration, shared resources, and a concerted effort to fill the data gaps. The scientific community would greatly benefit from a global network of water potential measurements, giving us the tools to better understand our planet’s ecosystems. To contribute your water potential data to this effort, visit ‘Get Involved’ and ‘Submit Data’."
-  },
-  {
-    "objectID": "posts/2023-08-31-ETpaper/index.html#footnotes",
-    "href": "posts/2023-08-31-ETpaper/index.html#footnotes",
-    "title": "Harmonizing global water stress research",
-    "section": "Footnotes",
-    "text": "Footnotes\n\n\nR package ‘LSD’ was used to plot the point density (Schwalb et al., 2020)↩︎"
-  },
-  {
-    "objectID": "posts.html",
-    "href": "posts.html",
-    "title": "Posts",
-    "section": "",
-    "text": "Harmonizing global water stress research\n\n\n\nplant water potential\n\n\nwater stress\n\n\n\nThe role of PSInet\n\n\n\nFrancesco Giardina\n\n\nAug 31, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nExpanding soil water potential obervations using near-surface geophysics\n\n\n\nelectrical resistivity imaging\n\n\nsoil water potential\n\n\n\nOne path toward resolving the spatial-temporal mismatch\n\n\n\nDaniel P. Beverly\n\n\nMay 24, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nImproving psychrometer installations\n\n\n\npsychrometry\n\n\nplant water potential\n\n\n\nWhat I learned from George Koch and Ben Umali\n\n\n\nJessica S. Guo\n\n\nApr 25, 2023\n\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "submit.html",
-    "href": "submit.html",
-    "title": "Submit Data",
-    "section": "",
-    "text": "PSInet is a global water potential network designed to close knowledge gaps surrounding the water potential gradients that drive ecosystem water flows and govern many aspects of plant function. As part of that work, we are building an open-access database for time series of plant water potential collected in field research settings, including both discrete measurements made with pressure chambers and continuous measurements enabled by psychrometers, tensiometers, and other emerging technologies."
-  },
-  {
-    "objectID": "submit.html#pre-submission-survey",
-    "href": "submit.html#pre-submission-survey",
-    "title": "Submit Data",
-    "section": "Pre-submission survey",
-    "text": "Pre-submission survey\nBy filling out this survey, you are indicating your interest in sharing a plant water potential time series dataset, likely collected using a pressure chamber approach, to the database. The database will be published as an open-access tool (e.g. CC-By-4.0 license). Sharing data by XX-XX-XXXX will make you eligible to co-author a network-level data publication (up to two personnel per site) and will give you and your team members priority access to the entire database during a one-year embargo period prior to publication of the data paper. PSInet can also work with you to provide a site-specific DOI for your dataset if desired. Data providers will be given priority access to other network activities, including workshops, conference meet-ups, and some sites may find that sharing data opens the door to future synthesis projects.\nThis survey will take about 15 minutes and should describe a single dataset. If you have questions or need clarification, please contact Michael Benson or Jessica Guo. After you fill out this survey, you will receive more detailed instructions about how to prepare your data for submission using an Excel template. PSInet will also be holding online help sessions (datathons) to provide additional instructions and answer contributor questions."
   }
 ]

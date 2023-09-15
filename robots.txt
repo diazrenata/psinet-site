@@ -1,0 +1,1 @@
+Sitemap: https://github.com/diazrenata/psinet-site/sitemap.xml
